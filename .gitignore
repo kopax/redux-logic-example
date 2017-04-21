@@ -1,0 +1,14 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+reports
+node_modules
+stats.json
+.sonar
+# Cruft
+.DS_Store
+npm-debug.log
+
+# Idea IntelliJ
+*.iml
+.idea
